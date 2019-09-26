@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">KennywoodV2</string>
+    <string name="textView">Kennywood is Open!</string>
+    <string name="nameEditText">Name</string>
+    <string name="buttonSend">About Us</string>
+    <string name="Name">Your name here</string>
+    <string name="kwImage">Logo</string>
+    <string name="editText">Name</string>
+    <string name="nameTextView">textview</string>
+    <string name="rate_ride">Rate Our Park!</string>
+    <string name="homeButton">Home</string>
+    <string name="aboutText">Text</string>
+    <string name="homeButton2">Home</string>
+    <string name="getRateButton">Get Rating</string>
+    <string name="steelcurtain">steelCurtainPic</string>
+    <string name="textAbout">\"Founded in 1898, Kennywood has thrilled and delighted both young and young-at-heart visitors for more than 120 years.\"</string>
+    <string name="addressText">4800 Kennywood Boulevard West Mifflin, PA 15122 (412) 461-0500</string>
+    <string name="kennywoodlogo2">kennywoodlg2</string>
+    <string name="rateUs">Rate Us!!</string>
+    <string name="kwoodlogo">kwoodlogo3</string>
+    <string name="textview3">How much fun did yinz have?!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textViewFrag">\"Kennywood\'s Open!\"</string>
+    <string name="gohomebutton">Go Home!</string>
+    <string name="rateView">Rate View</string>
+    <string name="buttonHome">Home Page</string>
+    <string name="textViewRate" />
+</resources>
